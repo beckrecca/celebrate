@@ -1,0 +1,48 @@
+a {
+	font-weight: bold;
+	color: #338785;
+}
+a:hover {
+	color: #479185;
+}
+body {
+	background-color: #fdffef;
+}
+h1 {
+	color: #479185;
+	font-size: 3.25em;
+	font-family: 'Great Vibes', cursive;
+}
+h2 {
+	color: #479185;
+	font-size: 2em;
+}
+h3 {
+	color: #479185;
+}
+h4 {
+	color: #479185;
+}
+strong {
+	color: #76372C;
+}
+.note {
+	font-weight: bold;
+}
+.page-header img {
+  float: left;
+  background: #555;
+}
+.page-header {
+  padding-bottom: 9px;
+  margin: 5px 0 10px;
+  border-bottom: 1px dotted #C6C6A8;
+}
+.page-header h1 {
+	position: relative;
+	left: 1em;
+}
+#mom-image {
+	margin-right: 1em;
+	margin-bottom: 1em;
+}
